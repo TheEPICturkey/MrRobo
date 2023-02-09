@@ -8,9 +8,11 @@ function beepBoop() {
     if (str.includes("3")) {
       outputArray.push("Won't you be my neighbor?")
     } else if (str.includes("2")) {
-      outputArray.push("boop")
+      outputArray.push("Boop!")
     } else if (str.includes("1")) {
-      outputArray.push("beep")
+      outputArray.push("Beep!")
+    } else if (str.includes("69")) {
+      outputArray.push("NOICE")
     } else {
       outputArray.push(i);
     }
