@@ -1,17 +1,9 @@
 body {
-  background-color: rgb(63, 245, 13);
-}
-
-.card {
-  margin-bottom: 1em;
+  background-color: blueviolet;
 }
 
 .hidden{
   display: none;
-}
-
-h1 {
-  
 }
 
 #result{

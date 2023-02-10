@@ -36,5 +36,4 @@ function beepBoop() {
   
   window.addEventListener("load", function() {
     document.getElementById("countUp").addEventListener("submit", formHandler);
-    console.log("page load function worked")
   });
