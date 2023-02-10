@@ -1,7 +1,21 @@
 body {
-  text-align: center;
+  background-color: rgb(63, 245, 13);
 }
 
-.answer {
-  background-color: brown;
+.card {
+  margin-bottom: 1em;
 }
+
+.hidden{
+  display: none;
+}
+
+h1 {
+  
+}
+
+#result{
+  overflow: scroll;
+  max-height: 400px;
+}
+

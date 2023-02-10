@@ -16,13 +16,13 @@ _On this webpage, a user will be prompted to input a number of their choosing. U
 
 ## Setup/Installation Requirements
 
-* _Clone from GitHub at:https://github.com/TrevorH08/mr-robogers-neighborhood ._
+* _Clone from GitHub at:https://github.com/TheEPICturkey/MrRobo ._
 * _Navigate to the "mr-robogers-neighborhood" folder_
 * _Double click index.html to open a locally hosted instance_
 * _Enter a number to see how it works_
 * _TO EDIT: Open folder using text editor of your choice_
 
-
+a
 ## TESTS
 
 * _Describe: beepBoop();_
@@ -59,7 +59,7 @@ MIT
 
 _If you have any questions or issues, head over to this projects GitHub Repository, and navigate to the "Issues" tab to leave feedback! If you have any suggestions or would like to contribute to this project, reach out and let me know!_
 
-Copyright (c) _08/28/22_ _Trevor Hunter_
+Copyright (c) _02/9/23_ _Brandon Spear_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
