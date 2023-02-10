@@ -22,7 +22,6 @@ _On this webpage, a user will be prompted to input a number of their choosing. U
 * _Enter a number to see how it works_
 * _TO EDIT: Open folder using text editor of your choice_
 
-a
 ## TESTS
 
 * _Describe: beepBoop();_
